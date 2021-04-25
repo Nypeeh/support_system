@@ -1,5 +1,5 @@
 # Sistema simples de suporte (Real-time)
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![YARN](https://img.shields.io/github/license/nypeeh/support_system)](https://github.com/Nypeeh/support_system/blob/main/LICENSE)
 
 # Sobre o projeto
 
